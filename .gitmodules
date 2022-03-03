@@ -1,0 +1,6 @@
+[submodule "e-shop-back-end"]
+	path = e-shop-back-end
+	url = https://github.com/Dana-Mst/e-shop-back-end.git
+[submodule "e-shop-front-end"]
+	path = e-shop-front-end
+	url = https://github.com/Dana-Mst/e-shop-front-end.git
