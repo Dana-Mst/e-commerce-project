@@ -25,6 +25,6 @@ The e-shop is selling products like honey, handcrafted drinks, fresh fruits and 
 
 ### Demo
 
-![e-commerce-project](https://github.com/Dana-Mst/e-commerce-project/blob/master/screenshots/products-page.png)
+![e-commerce-project](https://github.com/Dana-Mst/e-commerce-project/blob/development/screenshots/products-page.png)
 
 ![e-commerce-project](https://github.com/Dana-Mst/e-commerce-project/blob/master/screenshots/single-product-page.png)
