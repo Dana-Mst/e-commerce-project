@@ -1,6 +1,7 @@
 # e-commerce-project
 
-Curat Shop - e-commerce web application.
+Curat Shop, e-commerce web application.
+"Clean" products from small producers.
 
 ## Description
 
@@ -8,7 +9,7 @@ Curat is an online web application where users can browse products, add them int
 
 There is also a recipe section that aims to inspire the customers how to use the products they purchased.
 
-The e-shop is selling "clean" products from small producers like: honey, handcrafted drinks, fresh fruits and vegetables.
+The e-shop is selling products like honey, handcrafted drinks, fresh fruits and vegetables.
 
 ## Technologies used
 
@@ -24,4 +25,6 @@ The e-shop is selling "clean" products from small producers like: honey, handcra
 
 ### Demo
 
-![e-commerce-project] ()
+![e-commerce-project](https://github.com/Dana-Mst/e-commerce-project/blob/master/screenshots/products-page.png)
+
+![e-commerce-project](https://github.com/Dana-Mst/e-commerce-project/blob/master/screenshots/single-product-page.png)
